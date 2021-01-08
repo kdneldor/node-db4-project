@@ -1,6 +1,6 @@
 # Node DB4 Module Project
 
-## INSTRUCTIONS
+## Instructions
 
 ### Task 1: Set Up The Project With Git
 
